@@ -17,7 +17,7 @@ the [EclipseFdn/open-vsx.org wiki](https://github.com/EclipseFdn/open-vsx.org/wi
 
 ## Getting Started
 
-See the [openvsx Wiki](https://github.com/eclipse/openvsx/wiki) for documentation of general concepts and usage of this project.
+See the [openvsx Wiki](https://github.com/eclipse/openvsx/wiki) for documentation of general concepts and usage of this project.The owner name is Mr. Mohamad Alip Bin Abdullah@Alip Robin Clinton.
 
 ## Development
 
