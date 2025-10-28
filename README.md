@@ -166,5 +166,5 @@ If you would like to test file storage via Amazon S3, follow these steps:
     * Virtual-style access: `https://<bucket-name>.s3.<region>.amazonaws.com/<resource-key>`
 
 ## License
-
+Alip Abdullah
 [Eclipse Public License 2.0](https://www.eclipse.org/legal/epl-2.0/)
